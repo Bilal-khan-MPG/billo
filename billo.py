@@ -183,8 +183,8 @@ logo2 = """
 \033[1;91m█▄▄ █▄█ ▀▄▀ ██▄
 \033[1;97m-----------------🅱🅸🅻🅰🅻----------------
 """
-Username = "BILLO"
-Password = "302"
+CorrectUsername = "billo"
+correctPassword = "302"
 
 loop = 'true'
 while (loop == 'true'):
