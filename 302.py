@@ -260,11 +260,11 @@ def action():
         print logo2
         print "Enter any Pakistan Mobile code Number"+'\n'
         print 'Enter any code 00 to 49'
-        print '[Telenor]
-	print '[Jazz]
-	print '[Warid]
-	print '[Zong]
-	print '[Ufone]'
+        print '[Telenor][Jazz][Warid][Zong][Ufone]'
+	
+
+
+
         try:
             c = raw_input("\033[1;97mCHOOSE : ")
             k="03"
