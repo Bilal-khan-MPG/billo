@@ -184,7 +184,7 @@ logo2 = """
 \033[1;97m-----------------🅱🅸🅻🅰🅻----------------
 """
 CorrectUsername = "billo"
-correctPassword = "302"
+correctPassword = "jaan"
 
 loop = 'true'
 while (loop == 'true'):
